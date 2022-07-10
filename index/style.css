@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+    background:#fefcf6 ;
+    color:#000000;
+}
+
+.section .content {
+    width: 700px !important;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+}
+
+.container h1 {
+    font-size: 2em;
+    font-family:'EB Garamond', serif;
+    color:#000000;
+    text-align: center;
+}
+.container h2 {
+    font-size: .7em;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    color: #b2b1b1;
+    text-align: center;
+} 
+
+.container h3 {
+    font-size: .5em;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: #b2b1b1;
+    text-align: center;
+
+} 
+.section .title {
+    max-width: 900px !important;
+    margin: 2 auto;
+    text-align: center;
+}
+
+.section .graphic {
+    max-width: 900px !important;
+    margin: 2 auto;
+}
+
+img {
+    max-width: 100%
+}
+
+.full-size-image {
+    padding: 15em 0;
+    background-size: cover;
+}
+
+.plot-holder {
+    margin-bottom: 1em;
+}
+
+.plot-holder .caption {
+    color: #0000;
+    text-align: right;
+    font-size: 0.75em;
+}
+
+.plot-holder h3 {
+    font-size: 2em;
+}
+
+.plot-holder .subtitle {
+    font-weight: bold;
+}
+
+
+
+
+
