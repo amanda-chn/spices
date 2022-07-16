@@ -71,6 +71,12 @@ img {
     font-weight: bold;
 }
 
+.separator {
+    max-width: 15% !important;
+    padding-bottom: 20px
+
+}
+
 
 
 
