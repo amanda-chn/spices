@@ -81,7 +81,24 @@ img {
 
 }
 
+/* interactive */
+.hide {
+	display: none;
+}
 
+#viz {
+	max-width: 70%;
+	margin: auto;
+}
+
+#indian_button {cursor: pointer;}
+#middle_east_button {cursor: pointer;}
+#chinese_button {cursor: pointer;}
+#italian_button {cursor: pointer;}
+#french_button {cursor: pointer;}
+#carib_button {cursor: pointer;}
+#med_button {cursor: pointer;}
+#mex_button {cursor: pointer}
 
 
 
